@@ -32,3 +32,14 @@
 * Chetanya Mahana
 * Aryan
 
+#### To run the code 
+* git clone https://github.com/Anubhavpandey27/team_ANY
+* cd team_ANY
+* npm i
+* cd client
+* npm i
+* cd ..
+* npm start
+* cd client
+* npm start
+* now the client side will be running on localhost:3000 and server on localhost:5000
