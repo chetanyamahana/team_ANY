@@ -8,7 +8,7 @@
 * Search among hundreds of Mechanics near you.
 * Rating System.
 * Personalized dashboard for mechanic with notification alert.
-* 
+  
 
 ## Tech Stack and technologies used
 
@@ -22,7 +22,7 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![expressjs](	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### The project uses ReactJS as the main framework , Bootstrap and TailwindCSS for frontend ,NodeJS and ExpressJS for backend and Flask for integrating the NLP models for identifying harmful/abusive text. The NLP models are trained on suitable datasets using Python packages, such as Tensorflow and Keras. MongoDB is used as the main database, for storing all the blogs, content and user information.
+#### The project uses ReactJS as the main framework and TailwindCSS for frontend ,NodeJS for backend . MongoDB is used as the main database, for storing all the user, mechanic and Chat information.
 
 ##Contributors:
 * Anubhav Pandey
