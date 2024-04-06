@@ -1,6 +1,6 @@
 # Tean :ANY
 ### About the project:- 
-##### _**MemoryLane**_ is an interactive website made specailly for blog writers , where you can write blogs on almost all the topics and interact with people having similar interests and opinions. 
+##### _**MechConnect**_ A proposal to streamline the automobile repair market by creating a user-friendly interface connecting repair shops and customers, even in remote areas. The platform offers multiple options based on response time and price, aiming to benefit both users and repair shops. It emphasizes multilingual simplicity, AI integration for personalized experiences, and separate interfaces for users and repair shops. Slogan: "Revolutionizing Auto Repair: Anytime, Anywhere, Your Way!"
 # Salient Features
 * Interactive UI
 * Add tags for your blogs
@@ -17,10 +17,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![tensroflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![expressjs](	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
