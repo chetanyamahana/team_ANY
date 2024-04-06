@@ -25,10 +25,10 @@
 #### The project uses ReactJS as the main framework , Bootstrap and TailwindCSS for frontend ,NodeJS and ExpressJS for backend and Flask for integrating the NLP models for identifying harmful/abusive text. The NLP models are trained on suitable datasets using Python packages, such as Tensorflow and Keras. MongoDB is used as the main database, for storing all the blogs, content and user information.
 
 ##Contributors:
-*Anubhav Pandey
-*Gurmehar Singh
-*Gaurav Gupta
-*Sambhav Jain
-*Chetanya Mahana
-*Aryan
+* Anubhav Pandey
+* Gurmehar Singh
+* Gaurav Gupta
+* Sambhav Jain
+* Chetanya Mahana
+* Aryan
 
