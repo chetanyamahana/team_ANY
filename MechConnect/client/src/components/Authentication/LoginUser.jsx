@@ -166,7 +166,7 @@ const LandingPage = () => {
       if (data.success) {
         localStorage.setItem("userInfo", JSON.stringify(data));
         setLoading(false);
-        navigate("/chats");
+        navigate("/mechhome");
       } else {
         setLoading(false);
       }
