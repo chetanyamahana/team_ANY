@@ -34,7 +34,7 @@
 
 #### To run the code 
 * git clone https://github.com/Anubhavpandey27/team_ANY
-* cd team_ANY
+* ```cd team_ANY```
 * npm i
 * cd client
 * npm i
