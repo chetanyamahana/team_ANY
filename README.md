@@ -35,6 +35,7 @@
 #### To run the code 
 * git clone https://github.com/Anubhavpandey27/team_ANY
 * ```cd team_ANY```
+* in .env file replace the database uri with your mongodb database
 * ```npm i```
 * ```cd client```
 * ```npm i```
