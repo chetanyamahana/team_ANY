@@ -1,13 +1,14 @@
 # Tean :ANY
 ### About the project:- 
-##### _**MechConnect**_ A proposal to streamline the automobile repair market by creating a user-friendly interface connecting repair shops and customers, even in remote areas. The platform offers multiple options based on response time and price, aiming to benefit both users and repair shops. It emphasizes multilingual simplicity, AI integration for personalized experiences, and separate interfaces for users and repair shops. Slogan: "Revolutionizing Auto Repair: Anytime, Anywhere, Your Way!"
+##### _**MechConnect**_ : A proposal to streamline the automobile repair market by creating a user-friendly interface connecting repair shops and customers, even in remote areas. The platform offers multiple options based on response time and price, aiming to benefit both users and repair shops. It emphasizes multilingual simplicity, AI integration for personalized experiences, and separate interfaces for users and repair shops. Slogan: "Revolutionizing Auto Repair: Anytime, Anywhere, Your Way!"
 # Salient Features
 * Interactive UI
-* Add tags for your blogs
-* Report offensive content
-* Search among thousands of blogs in accordance of your interest
-* You can also see most read blogs overall and also category wise
-* Get a chance to interact with writers all over the world.
+* Separate authentication system for both User and Mechanical .
+* Chat feature for user and Mechanic.
+* Search among hundreds of Mechanics near you.
+* Rating System.
+* Personalized dashboard for mechanic with notification alert.
+* 
 
 ## Tech Stack and technologies used
 
@@ -20,3 +21,14 @@
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![expressjs](	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### The project uses ReactJS as the main framework , Bootstrap and TailwindCSS for frontend ,NodeJS and ExpressJS for backend and Flask for integrating the NLP models for identifying harmful/abusive text. The NLP models are trained on suitable datasets using Python packages, such as Tensorflow and Keras. MongoDB is used as the main database, for storing all the blogs, content and user information.
+
+##Contributors:
+*Anubhav Pandey
+*Gurmehar Singh
+*Gaurav Gupta
+*Sambhav Jain
+*Chetanya Mahana
+*Aryan
+
