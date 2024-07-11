@@ -43,4 +43,4 @@
 * ```npm start```
 * ```cd client```
 * ```npm start```
-* now the client side will be running on localhost:3000 and server on localhost:5000
+* now the server side will be running on localhost:5000 and client side on localhost:3000
