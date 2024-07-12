@@ -1,4 +1,4 @@
-# Tean :ANY
+# Team :ANY
 ### About the project:- 
 ##### _**MechConnect**_ : A proposal to streamline the automobile repair market by creating a user-friendly interface connecting repair shops and customers, even in remote areas. The platform offers multiple options based on response time and price, aiming to benefit both users and repair shops. It emphasizes multilingual simplicity, AI integration for personalized experiences, and separate interfaces for users and repair shops. Slogan: "Revolutionizing Auto Repair: Anytime, Anywhere, Your Way!"
 # Salient Features
